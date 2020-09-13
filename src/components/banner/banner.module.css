@@ -1,0 +1,33 @@
+.header {
+    background: #276aaa;
+    margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+}
+.h1.logo {
+    margin-bottom: 50px;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    align-content: center;
+    text-align: center;
+}
+
+.h1.logo span {
+    position: relative;
+    top: 5px;
+    color: #fff;
+    font-family: 'Open Sans', arial,sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+}
+.h1.logo span small {
+    font-size: 2rem;
+    color: #eee;
+    font-weight: 400;
+    line-height: 1;
+}
